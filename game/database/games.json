@@ -1,0 +1,2403 @@
+{
+  "games": [
+    {
+      "id": "6w3df8j9a",
+      "name": "Pirate's Plunder",
+      "theme": "Pirates",
+      "volatility": "High",
+      "rtp": 95.5,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 5000,
+      "special_features": [
+        "Free Spins",
+        "Wild Reels",
+        "Treasure Bonus"
+      ],
+      "art_style": "Cartoon",
+      "provider_style": "Adventure Slots Inc.",
+      "target_audience": "Adults",
+      "description": "Set sail on the high seas with Pirate's Plunder. Join a crew of swashbuckling pirates in search of hidden treasures and untold riches. With Wild Reels and Treasure Bonuses, this high volatility slot will keep you on the edge of your seat.",
+      "tags": [
+        "Pirates",
+        "Adventure",
+        "Treasure",
+        "Bonus"
+      ]
+    },
+    {
+      "id": "b9k4m2c8x",
+      "name": "Mystic Forest",
+      "theme": "Fantasy",
+      "volatility": "Medium",
+      "rtp": 96.2,
+      "reels": 5,
+      "paylines": 40,
+      "max_win_x": 2500,
+      "special_features": [
+        "Expanding Wilds",
+        "Mystery Symbols",
+        "Free Spins"
+      ],
+      "art_style": "Fantasy Art",
+      "provider_style": "Enchanted Games",
+      "target_audience": "Fantasy Enthusiasts",
+      "description": "Enter the mystical realm of Mystic Forest, where magical creatures and enchanting landscapes await. This medium volatility slot features Expanding Wilds and Mystery Symbols for spellbinding wins.",
+      "tags": [
+        "Fantasy",
+        "Magic",
+        "Creatures",
+        "Enchantment"
+      ]
+    },
+    {
+      "id": "j7q5n0e9p",
+      "name": "Egyptian Enigma",
+      "theme": "Ancient Egypt",
+      "volatility": "High",
+      "rtp": 94.3,
+      "reels": 6,
+      "paylines": "cluster",
+      "max_win_x": 10000,
+      "special_features": [
+        "Cascading Reels",
+        "Multiplier Boost",
+        "Pharaoh's Fortune"
+      ],
+      "art_style": "Realistic",
+      "provider_style": "Pyramid Slots",
+      "target_audience": "History Buffs",
+      "description": "Unearth the secrets of the pyramids in Egyptian Enigma. This high volatility game features Cascading Reels with a chance to unlock Pharaoh's Fortune, offering multipliers and massive wins.",
+      "tags": [
+        "Egypt",
+        "Pyramids",
+        "History",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "v5e8k3b1q",
+      "name": "Cyberpunk 3077",
+      "theme": "Futuristic",
+      "volatility": "Medium",
+      "rtp": 93.7,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 3000,
+      "special_features": [
+        "Neon Wilds",
+        "Free Spins",
+        "Hacker Bonus"
+      ],
+      "art_style": "Cyberpunk",
+      "provider_style": "Future Spin",
+      "target_audience": "Sci-Fi Fans",
+      "description": "Dive into the neon-lit world of Cyberpunk 3077, where hackers and mega-corporations rule. With Neon Wilds and the Hacker Bonus, this medium volatility slot offers thrilling cybernetic adventures.",
+      "tags": [
+        "Futuristic",
+        "Sci-Fi",
+        "Neon",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "t8p2r6f4n",
+      "name": "Fairytale Fortune",
+      "theme": "Fairy Tales",
+      "volatility": "Low",
+      "rtp": 97.0,
+      "reels": 3,
+      "paylines": 10,
+      "max_win_x": 800,
+      "special_features": [
+        "Respin Feature",
+        "Magic Wilds",
+        "Storybook Bonus"
+      ],
+      "art_style": "Whimsical",
+      "provider_style": "Dreamland Games",
+      "target_audience": "Families",
+      "description": "Step into a magical world with Fairytale Fortune. Perfect for a family-friendly gaming experience, this low volatility slot brings classic fairy tales to life with Magic Wilds and a captivating Storybook Bonus.",
+      "tags": [
+        "Fairy Tales",
+        "Magic",
+        "Family",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "p1u6j2z7h",
+      "name": "Western Gold Rush",
+      "theme": "Wild West",
+      "volatility": "High",
+      "rtp": 95.8,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 6000,
+      "special_features": [
+        "Sticky Wilds",
+        "Gold Rush Bonus",
+        "Free Spins"
+      ],
+      "art_style": "Western",
+      "provider_style": "Goldmine Slots",
+      "target_audience": "Western Fans",
+      "description": "Saddle up for a ride through the Wild West in Western Gold Rush. This high volatility slot offers Sticky Wilds and a Gold Rush Bonus that will have you striking it rich in no time.",
+      "tags": [
+        "Wild West",
+        "Gold",
+        "Adventure",
+        "Cowboys"
+      ]
+    },
+    {
+      "id": "m4g8f2r9s",
+      "name": "Space Odyssey",
+      "theme": "Space Exploration",
+      "volatility": "Medium",
+      "rtp": 96.5,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 3500,
+      "special_features": [
+        "Galactic Free Spins",
+        "Asteroid Wilds",
+        "Black Hole Bonus"
+      ],
+      "art_style": "Sci-Fi",
+      "provider_style": "Galactic Games",
+      "target_audience": "Space Enthusiasts",
+      "description": "Blast off into the cosmos with Space Odyssey. This medium volatility slot takes you on an interstellar journey with Galactic Free Spins and the thrilling Black Hole Bonus.",
+      "tags": [
+        "Space",
+        "Exploration",
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "c7l3p1n6j",
+      "name": "Jungle Quest",
+      "theme": "Jungle Adventure",
+      "volatility": "Medium",
+      "rtp": 92.5,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 4000,
+      "special_features": [
+        "Wild Jungle",
+        "Totem Bonus",
+        "Free Spins"
+      ],
+      "art_style": "Illustrative",
+      "provider_style": "Wildlife Slots",
+      "target_audience": "Adventure Seekers",
+      "description": "Venture deep into the heart of the jungle with Jungle Quest. Encounter exotic wildlife and discover hidden treasures with Wild Jungle features and the Totem Bonus for rewarding gameplay.",
+      "tags": [
+        "Jungle",
+        "Adventure",
+        "Wildlife",
+        "Exploration"
+      ]
+    },
+    {
+      "id": "k9b2v6f4r",
+      "name": "Medieval Madness",
+      "theme": "Medieval",
+      "volatility": "High",
+      "rtp": 94.9,
+      "reels": 5,
+      "paylines": 15,
+      "max_win_x": 7000,
+      "special_features": [
+        "Knight Wilds",
+        "Castle Siege Bonus",
+        "Free Spins"
+      ],
+      "art_style": "Historical",
+      "provider_style": "Kingdom Games",
+      "target_audience": "Medieval Enthusiasts",
+      "description": "Travel back to the age of chivalry with Medieval Madness. This high volatility slot offers Knight Wilds and a Castle Siege Bonus as you fight for glory and fortune in the medieval realm.",
+      "tags": [
+        "Medieval",
+        "Knights",
+        "History",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "f4u9t1e7b",
+      "name": "Fruit Fiesta",
+      "theme": "Classic Fruit",
+      "volatility": "Low",
+      "rtp": 96.9,
+      "reels": 3,
+      "paylines": 5,
+      "max_win_x": 500,
+      "special_features": [
+        "Respin",
+        "Multiplier Wilds",
+        "Classic Bonus"
+      ],
+      "art_style": "Retro",
+      "provider_style": "Traditional Slots Co.",
+      "target_audience": "Classic Slot Lovers",
+      "description": "Enjoy a classic slot experience with Fruit Fiesta. Featuring traditional symbols and a low volatility setup, this game is perfect for those who love the nostalgia of fruit machines with modern twists like Multiplier Wilds.",
+      "tags": [
+        "Classic",
+        "Fruit",
+        "Retro",
+        "Traditional"
+      ]
+    },
+    {
+      "id": "a1b2c3",
+      "name": "Pirate's Plunder",
+      "theme": "Pirates",
+      "volatility": "High",
+      "rtp": 95.6,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 5000,
+      "special_features": [
+        "Free Spins",
+        "Treasure Hunt Bonus Round",
+        "Wild Multipliers"
+      ],
+      "art_style": "Cartoonish",
+      "provider_style": "NetEnt",
+      "target_audience": "Adventure seekers",
+      "description": "Embark on a thrilling ocean adventure with Pirate's Plunder. Sail the high seas and hunt for treasure in this high volatility slot.",
+      "tags": [
+        "Pirate",
+        "Adventure",
+        "Treasure"
+      ]
+    },
+    {
+      "id": "d4e5f6",
+      "name": "Jungle Jewels",
+      "theme": "Jungle",
+      "volatility": "Medium",
+      "rtp": 94.2,
+      "reels": 6,
+      "paylines": 50,
+      "max_win_x": 3000,
+      "special_features": [
+        "Expanding Wilds",
+        "Mystery Symbols"
+      ],
+      "art_style": "Realistic",
+      "provider_style": "Microgaming",
+      "target_audience": "Nature lovers",
+      "description": "Discover the hidden riches of the jungle. Jungle Jewels invites players to explore a lush and vibrant landscape filled with precious gems.",
+      "tags": [
+        "Jungle",
+        "Nature",
+        "Gems"
+      ]
+    },
+    {
+      "id": "g7h8i9",
+      "name": "Cyberpunk City",
+      "theme": "Futuristic",
+      "volatility": "Medium",
+      "rtp": 96.1,
+      "reels": 5,
+      "paylines": "cluster",
+      "max_win_x": 7000,
+      "special_features": [
+        "Cascading Reels",
+        "Bonus Game",
+        "Random Wilds"
+      ],
+      "art_style": "Neon",
+      "provider_style": "Yggdrasil",
+      "target_audience": "Sci-fi fans",
+      "description": "Step into the neon-drenched future with Cyberpunk City. This slot offers cascading reels and electrifying bonuses in a dystopian world.",
+      "tags": [
+        "Futuristic",
+        "Sci-fi",
+        "Neon"
+      ]
+    },
+    {
+      "id": "j0k1l2",
+      "name": "Fairy Tale Fortune",
+      "theme": "Fantasy",
+      "volatility": "Low",
+      "rtp": 93.8,
+      "reels": 3,
+      "paylines": 10,
+      "max_win_x": 1500,
+      "special_features": [
+        "Free Spins",
+        "Pick-and-Click Bonus"
+      ],
+      "art_style": "Whimsical",
+      "provider_style": "Play'n GO",
+      "target_audience": "Fairy tale enthusiasts",
+      "description": "Enter a magical world where fortunes are made. Fairy Tale Fortune combines classic slot mechanics with enchanting fairy tale elements.",
+      "tags": [
+        "Fantasy",
+        "Magic",
+        "Fairy Tale"
+      ]
+    },
+    {
+      "id": "m3n4o5",
+      "name": "Wild West Gold",
+      "theme": "Western",
+      "volatility": "High",
+      "rtp": 96.5,
+      "reels": 5,
+      "paylines": 40,
+      "max_win_x": 6000,
+      "special_features": [
+        "Sticky Wilds",
+        "Free Spins",
+        "Multiplier Wilds"
+      ],
+      "art_style": "Vintage",
+      "provider_style": "Pragmatic Play",
+      "target_audience": "Western fans",
+      "description": "Get ready for a showdown in the Wild West. Wild West Gold captures the excitement of the frontier with sticky wilds and high stakes.",
+      "tags": [
+        "Western",
+        "Cowboys",
+        "Gold"
+      ]
+    },
+    {
+      "id": "p6q7r8",
+      "name": "Festival Fiesta",
+      "theme": "Carnival",
+      "volatility": "Medium",
+      "rtp": 95.0,
+      "reels": 4,
+      "paylines": "cluster",
+      "max_win_x": 4000,
+      "special_features": [
+        "Re-Spins",
+        "Scatter Pays",
+        "Multipliers"
+      ],
+      "art_style": "Colorful",
+      "provider_style": "Playtech",
+      "target_audience": "Celebration lovers",
+      "description": "Join the party with Festival Fiesta. This slot offers vibrant visuals and carnival music that will have players dancing in their seats.",
+      "tags": [
+        "Carnival",
+        "Party",
+        "Music"
+      ]
+    },
+    {
+      "id": "s9t0u1",
+      "name": "Ancient Egypt Treasures",
+      "theme": "Egypt",
+      "volatility": "High",
+      "rtp": 92.5,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 10000,
+      "special_features": [
+        "Expanding Symbols",
+        "Free Spins",
+        "Pyramid Bonus"
+      ],
+      "art_style": "Classic",
+      "provider_style": "Novomatic",
+      "target_audience": "History buffs",
+      "description": "Uncover the secrets of the pharaohs with Ancient Egypt Treasures. This slot brings to life the mystery and riches of ancient civilizations.",
+      "tags": [
+        "Egypt",
+        "Ancient",
+        "Riches"
+      ]
+    },
+    {
+      "id": "v2w3x4",
+      "name": "Midnight Mysteries",
+      "theme": "Mystery",
+      "volatility": "Medium",
+      "rtp": 97.0,
+      "reels": 3,
+      "paylines": 9,
+      "max_win_x": 2000,
+      "special_features": [
+        "Random Wilds",
+        "Mystery Prize",
+        "Free Spins"
+      ],
+      "art_style": "Dark",
+      "provider_style": "IGT",
+      "target_audience": "Mystery lovers",
+      "description": "Dive into the unknown with Midnight Mysteries. Solve the puzzles and unlock the secrets hidden in the shadows of this intriguing slot.",
+      "tags": [
+        "Mystery",
+        "Dark",
+        "Secrets"
+      ]
+    },
+    {
+      "id": "y5z6a7",
+      "name": "Space Odyssey",
+      "theme": "Space",
+      "volatility": "Low",
+      "rtp": 94.9,
+      "reels": 5,
+      "paylines": 15,
+      "max_win_x": 2500,
+      "special_features": [
+        "Free Spins",
+        "Stellar Wilds",
+        "Alien Bonus"
+      ],
+      "art_style": "Futuristic",
+      "provider_style": "Red Tiger",
+      "target_audience": "Space enthusiasts",
+      "description": "Explore the cosmos with Space Odyssey. This slot takes players on an intergalactic journey filled with stellar wins and alien encounters.",
+      "tags": [
+        "Space",
+        "Aliens",
+        "Cosmos"
+      ]
+    },
+    {
+      "id": "b8c9d0",
+      "name": "Royal Ruby Riches",
+      "theme": "Regal",
+      "volatility": "Low",
+      "rtp": 93.5,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 3500,
+      "special_features": [
+        "Free Spins",
+        "Royal Wilds",
+        "Gem Bonus"
+      ],
+      "art_style": "Elegant",
+      "provider_style": "NetEnt",
+      "target_audience": "Luxury seekers",
+      "description": "Experience the opulence of Royal Ruby Riches. This slot offers a taste of the royal life with luxurious graphics and dazzling features.",
+      "tags": [
+        "Regal",
+        "Luxury",
+        "Gems"
+      ]
+    },
+    {
+      "id": "a1b2c3d4",
+      "name": "Pirate's Plunder",
+      "theme": "Pirate Adventure",
+      "volatility": "High",
+      "rtp": 95.5,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 5000,
+      "special_features": [
+        "Free Spins",
+        "Treasure Hunt Bonus",
+        "Expanding Wilds"
+      ],
+      "art_style": "Cartoonish",
+      "provider_style": "NetEnt",
+      "target_audience": "Fans of adventure and pirate themes",
+      "description": "Set sail on the high seas with Pirate's Plunder, where you hunt for hidden treasures across 5 reels. Unleash the Expanding Wilds, and navigate your way to the Treasure Hunt Bonus to uncover legendary riches!",
+      "tags": [
+        "Pirates",
+        "Adventure",
+        "High Volatility",
+        "Free Spins"
+      ]
+    },
+    {
+      "id": "e5f6g7h8",
+      "name": "Mystic Moonlight",
+      "theme": "Fantasy",
+      "volatility": "Medium",
+      "rtp": 96.1,
+      "reels": 6,
+      "paylines": "cluster",
+      "max_win_x": 2500,
+      "special_features": [
+        "Mystery Symbols",
+        "Moonlight Respins",
+        "Cluster Pays"
+      ],
+      "art_style": "Fantasy Illustration",
+      "provider_style": "Yggdrasil",
+      "target_audience": "Fantasy enthusiasts and players who enjoy magical themes",
+      "description": "Under the glow of the Mystic Moonlight, encounter magical creatures and hidden spells. This 6-reel game offers Cluster Pays and enchanting Mystery Symbols to light up your night!",
+      "tags": [
+        "Fantasy",
+        "Magic",
+        "Medium Volatility",
+        "Cluster Pays"
+      ]
+    },
+    {
+      "id": "i9j0k1l2",
+      "name": "Neon Jackpot",
+      "theme": "Retro Neon",
+      "volatility": "Low",
+      "rtp": 94.8,
+      "reels": 3,
+      "paylines": 5,
+      "max_win_x": 1000,
+      "special_features": [
+        "Jackpot Wheel",
+        "Neon Wilds"
+      ],
+      "art_style": "Retro Neon",
+      "provider_style": "Microgaming",
+      "target_audience": "Fans of classic slots with a modern twist",
+      "description": "Experience the glow of yesteryear with Neon Jackpot, a 3-reel slot that shines bright with Neon Wilds and a Jackpot Wheel that promises electrifying wins!",
+      "tags": [
+        "Retro",
+        "Neon",
+        "Low Volatility",
+        "Jackpot"
+      ]
+    },
+    {
+      "id": "m3n4o5p6",
+      "name": "Wild West Showdown",
+      "theme": "Western",
+      "volatility": "High",
+      "rtp": 92.5,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 6000,
+      "special_features": [
+        "Duel Bonus",
+        "Sticky Wilds",
+        "Free Spins"
+      ],
+      "art_style": "Realistic Western",
+      "provider_style": "Play'n GO",
+      "target_audience": "Fans of Western themes and high-risk gaming",
+      "description": "Gear up for a showdown in the Wild West, where the reels are packed with Sticky Wilds, intense Duels, and Free Spins that lead to the ultimate cowboy fortune!",
+      "tags": [
+        "Western",
+        "High Volatility",
+        "Free Spins"
+      ]
+    },
+    {
+      "id": "q7r8s9t0",
+      "name": "Deep Sea Treasures",
+      "theme": "Underwater Adventure",
+      "volatility": "Medium",
+      "rtp": 97.0,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 4000,
+      "special_features": [
+        "Sunken Relics Bonus",
+        "Bubble Wilds",
+        "Free Spins"
+      ],
+      "art_style": "3D Animation",
+      "provider_style": "Quickspin",
+      "target_audience": "Players who love underwater exploration and adventures",
+      "description": "Dive into the depths of the ocean with Deep Sea Treasures, where Sunken Relics hold the keys to Free Spins and Bubble Wilds drift across the reels!",
+      "tags": [
+        "Underwater",
+        "Medium Volatility",
+        "Free Spins",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "u1v2w3x4",
+      "name": "Egyptian Secrets",
+      "theme": "Ancient Egypt",
+      "volatility": "High",
+      "rtp": 95.2,
+      "reels": 5,
+      "paylines": 10,
+      "max_win_x": 5000,
+      "special_features": [
+        "Pyramid Bonus",
+        "Expanding Symbols"
+      ],
+      "art_style": "Egyptian Hieroglyphics",
+      "provider_style": "Pragmatic Play",
+      "target_audience": "Fans of Egyptian themes and high-volatility games",
+      "description": "Unearth the Egyptian Secrets, where ancient riches await those who dare to spin the 5 reels. Experience the Pyramid Bonus and discover the power of Expanding Symbols!",
+      "tags": [
+        "Egypt",
+        "High Volatility",
+        "Bonus"
+      ]
+    },
+    {
+      "id": "y5z6a7b8",
+      "name": "Candy Carnival",
+      "theme": "Candy Land",
+      "volatility": "Low",
+      "rtp": 93.5,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 1500,
+      "special_features": [
+        "Sugar Rush Free Spins",
+        "Candy Wilds"
+      ],
+      "art_style": "Bright and Colorful",
+      "provider_style": "Red Tiger",
+      "target_audience": "Casual players and fans of sweet-themed slots",
+      "description": "Enter the delicious world of Candy Carnival, where sweet surprises and Candy Wilds fill the reels, and Sugar Rush Free Spins bring extra joy to every spin.",
+      "tags": [
+        "Candy",
+        "Low Volatility",
+        "Colorful"
+      ]
+    },
+    {
+      "id": "c9d0e1f2",
+      "name": "Samurai Saga",
+      "theme": "Japanese Warrior",
+      "volatility": "Medium",
+      "rtp": 94.0,
+      "reels": 5,
+      "paylines": 40,
+      "max_win_x": 3500,
+      "special_features": [
+        "Battle Bonus",
+        "Wild Reels"
+      ],
+      "art_style": "Traditional Japanese",
+      "provider_style": "Konami",
+      "target_audience": "Fans of Japanese culture and action-packed slots",
+      "description": "Join the ranks of elite warriors in Samurai Saga, a game where the Battle Bonus tests your skills and Wild Reels slash through the competition.",
+      "tags": [
+        "Japanese",
+        "Medium Volatility",
+        "Wilds"
+      ]
+    },
+    {
+      "id": "g3h4i5j6",
+      "name": "Space Odyssey",
+      "theme": "Sci-Fi",
+      "volatility": "High",
+      "rtp": 95.0,
+      "reels": 6,
+      "paylines": 100,
+      "max_win_x": 10000,
+      "special_features": [
+        "Asteroid Bonus",
+        "Space Wilds",
+        "Free Spins"
+      ],
+      "art_style": "Futuristic",
+      "provider_style": "Betsoft",
+      "target_audience": "Sci-Fi lovers and high-stakes players",
+      "description": "Venture into the cosmos with Space Odyssey, a high-volatility slot that offers astronomical wins with Space Wilds, an Asteroid Bonus, and thrilling Free Spins!",
+      "tags": [
+        "Sci-Fi",
+        "High Volatility",
+        "Free Spins"
+      ]
+    },
+    {
+      "id": "k7l8m9n0",
+      "name": "Festival Fiesta",
+      "theme": "Latin Carnival",
+      "volatility": "Low",
+      "rtp": 96.7,
+      "reels": 5,
+      "paylines": 243,
+      "max_win_x": 2000,
+      "special_features": [
+        "Carnival Free Spins",
+        "Fiesta Wilds"
+      ],
+      "art_style": "Vibrant and Festive",
+      "provider_style": "IGT",
+      "target_audience": "Party lovers and players who enjoy vibrant themes",
+      "description": "Celebrate in style with Festival Fiesta, where the reels dance with Carnival Free Spins and Fiesta Wilds ensure every spin is a party!",
+      "tags": [
+        "Carnival",
+        "Low Volatility",
+        "Festival"
+      ]
+    },
+    {
+      "id": "A1B2C3D4E5",
+      "name": "Mystic Forest",
+      "theme": "Fantasy",
+      "volatility": "Medium",
+      "rtp": 94.5,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 1000,
+      "special_features": [
+        "Free Spins",
+        "Expanding Wilds"
+      ],
+      "art_style": "Illustrative",
+      "provider_style": "Magic Spins",
+      "target_audience": "Fantasy Lovers",
+      "description": "Enter the enchanting Mystic Forest, where every spin brings you closer to meeting mythical creatures and unlocking hidden treasures. Beware of the expanding wilds that can transform your luck!",
+      "tags": [
+        "Fantasy",
+        "Magic",
+        "Nature"
+      ]
+    },
+    {
+      "id": "F6G7H8I9J0",
+      "name": "Pyramid of Riches",
+      "theme": "Ancient Egypt",
+      "volatility": "High",
+      "rtp": 95.3,
+      "reels": 5,
+      "paylines": 243,
+      "max_win_x": 5000,
+      "special_features": [
+        "Multipliers",
+        "Scatter Symbols"
+      ],
+      "art_style": "Realistic",
+      "provider_style": "Epic Adventures",
+      "target_audience": "History Enthusiasts",
+      "description": "Journey to the sands of Ancient Egypt where the Pyramid of Riches stands tall, offering untold wealth to those brave enough to face its challenges. Discover the power of multipliers and scatter symbols that can lead to immense rewards.",
+      "tags": [
+        "Ancient Egypt",
+        "Adventure",
+        "Riches"
+      ]
+    },
+    {
+      "id": "K1L2M3N4O5",
+      "name": "Neon City Nights",
+      "theme": "Futuristic",
+      "volatility": "Low",
+      "rtp": 96.7,
+      "reels": 3,
+      "paylines": 5,
+      "max_win_x": 300,
+      "special_features": [
+        "Re-Spins",
+        "Sticky Wilds"
+      ],
+      "art_style": "Neon",
+      "provider_style": "Urban Breaks",
+      "target_audience": "Modern Players",
+      "description": "Experience the vibrant energy of Neon City Nights, a slot game pulsing with color and light. Spin amidst glowing skyscrapers and enjoy re-spins and sticky wilds that keep the excitement alive.",
+      "tags": [
+        "Futuristic",
+        "Urban",
+        "Colorful"
+      ]
+    },
+    {
+      "id": "P6Q7R8S9T0",
+      "name": "Wild West Showdown",
+      "theme": "Western",
+      "volatility": "High",
+      "rtp": 92.9,
+      "reels": 5,
+      "paylines": 10,
+      "max_win_x": 4000,
+      "special_features": [
+        "Gamble Feature",
+        "Bonus Game"
+      ],
+      "art_style": "Comic",
+      "provider_style": "Cowboy Classics",
+      "target_audience": "Action Seekers",
+      "description": "Saddle up for the Wild West Showdown, where the stakes are high and the rewards are higher. Engage in thrilling gunfights and double your wins with the exciting gamble feature!",
+      "tags": [
+        "Western",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "U1V2W3X4Y5",
+      "name": "Oceanic Odyssey",
+      "theme": "Underwater",
+      "volatility": "Medium",
+      "rtp": 94.2,
+      "reels": 5,
+      "paylines": "cluster",
+      "max_win_x": 2000,
+      "special_features": [
+        "Cluster Pays",
+        "Tumbling Reels"
+      ],
+      "art_style": "Watercolor",
+      "provider_style": "Oceanic Dreams",
+      "target_audience": "Nature Lovers",
+      "description": "Dive into the depths of the Oceanic Odyssey, an underwater adventure filled with vibrant marine life and treasures. Enjoy cluster pays and tumbling reels as you explore the mysteries of the deep.",
+      "tags": [
+        "Underwater",
+        "Adventure",
+        "Nature"
+      ]
+    },
+    {
+      "id": "Z1A2B3C4D5",
+      "name": "Fiesta Fortune",
+      "theme": "Festival",
+      "volatility": "Low",
+      "rtp": 97.0,
+      "reels": 4,
+      "paylines": 40,
+      "max_win_x": 1500,
+      "special_features": [
+        "Pick and Click",
+        "Wild Scatters"
+      ],
+      "art_style": "Festive",
+      "provider_style": "Celebration Games",
+      "target_audience": "Casual Players",
+      "description": "Join the vibrant Fiesta Fortune, a jubilant celebration of color, music, and dance. With pick and click bonuses and wild scatters, every spin is a party waiting to happen!",
+      "tags": [
+        "Festival",
+        "Celebration",
+        "Fun"
+      ]
+    },
+    {
+      "id": "E6F7G8H9I0",
+      "name": "Viking Voyage",
+      "theme": "Norse Mythology",
+      "volatility": "High",
+      "rtp": 93.6,
+      "reels": 6,
+      "paylines": 50,
+      "max_win_x": 7500,
+      "special_features": [
+        "Expanding Reels",
+        "Free Spins"
+      ],
+      "art_style": "Epic",
+      "provider_style": "Legendary Journeys",
+      "target_audience": "Mythology Fans",
+      "description": "Set sail on a Viking Voyage and conquer the seas. Experience the power of expanding reels and unleash the fury of free spins as you plunder legendary treasures.",
+      "tags": [
+        "Norse Mythology",
+        "Adventure",
+        "Epic"
+      ]
+    },
+    {
+      "id": "J1K2L3M4N5",
+      "name": "Space Escape",
+      "theme": "Sci-Fi",
+      "volatility": "Medium",
+      "rtp": 95.9,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 2500,
+      "special_features": [
+        "Teleporting Wilds",
+        "Free Spins"
+      ],
+      "art_style": "Futuristic",
+      "provider_style": "Cosmic Creations",
+      "target_audience": "Sci-Fi Enthusiasts",
+      "description": "Blast off into the unknown with Space Escape, a thrilling journey across the universe. Navigate through teleporting wilds and free spins as you explore distant galaxies.",
+      "tags": [
+        "Sci-Fi",
+        "Adventure",
+        "Space"
+      ]
+    },
+    {
+      "id": "O6P7Q8R9S0",
+      "name": "Jungle Jazz",
+      "theme": "Animal",
+      "volatility": "Low",
+      "rtp": 96.2,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 1000,
+      "special_features": [
+        "Stacked Symbols",
+        "Free Spins"
+      ],
+      "art_style": "Cartoon",
+      "provider_style": "Wild Beats",
+      "target_audience": "Casual Players",
+      "description": "Swing into the rhythm of Jungle Jazz, where the wild animals throw the best jam sessions in the heart of the jungle. Enjoy the groove with stacked symbols and free spins.",
+      "tags": [
+        "Animal",
+        "Music",
+        "Fun"
+      ]
+    },
+    {
+      "id": "T1U2V3W4X5",
+      "name": "Castle Siege",
+      "theme": "Medieval",
+      "volatility": "High",
+      "rtp": 93.8,
+      "reels": 4,
+      "paylines": 16,
+      "max_win_x": 6000,
+      "special_features": [
+        "Battle Bonus",
+        "Wild Shields"
+      ],
+      "art_style": "Gothic",
+      "provider_style": "Historic Quests",
+      "target_audience": "Strategic Players",
+      "description": "Defend your realm in Castle Siege, where strategic battles determine your fate. Protect your kingdom with wild shields and engage in epic battle bonuses for glory and riches.",
+      "tags": [
+        "Medieval",
+        "Strategy",
+        "Battle"
+      ]
+    },
+    {
+      "id": "A1Zb34",
+      "name": "Jungle Jewels",
+      "theme": "Tropical Jungle",
+      "volatility": "High",
+      "rtp": 96.1,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 10000,
+      "special_features": [
+        "Free Spins",
+        "Stacked Wilds",
+        "Multiplier Wilds"
+      ],
+      "art_style": "Cartoonish",
+      "provider_style": "Play'n GO",
+      "target_audience": "Adventure Seekers",
+      "description": "Venture into the lush depths of the jungle where mystical creatures guard treasure-filled reels. Unleash the power of stacked wilds and free spins for epic wins.",
+      "tags": [
+        "Adventure",
+        "Wildlife",
+        "Treasure"
+      ]
+    },
+    {
+      "id": "B2Yc45",
+      "name": "Galactic Odyssey",
+      "theme": "Space Exploration",
+      "volatility": "Medium",
+      "rtp": 94.5,
+      "reels": 6,
+      "paylines": "cluster",
+      "max_win_x": 7500,
+      "special_features": [
+        "Cluster Pays",
+        "Bonus Wheel",
+        "Expanding Symbols"
+      ],
+      "art_style": "Futuristic",
+      "provider_style": "NetEnt",
+      "target_audience": "Sci-Fi Enthusiasts",
+      "description": "Blast off into the cosmos and explore unknown galaxies. With cluster pays and an exciting bonus wheel, your next big adventure is just a spin away.",
+      "tags": [
+        "Space",
+        "Sci-Fi",
+        "Exploration"
+      ]
+    },
+    {
+      "id": "C3Xd56",
+      "name": "Mystic Fortune",
+      "theme": "Ancient China",
+      "volatility": "Low",
+      "rtp": 95.2,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 5000,
+      "special_features": [
+        "Respins",
+        "Pick and Click Bonus",
+        "Cascading Reels"
+      ],
+      "art_style": "Traditional",
+      "provider_style": "IGT",
+      "target_audience": "History Buffs",
+      "description": "Discover the wisdom of ancient China. Unlock secrets with cascading reels and enjoy the tranquility of serene landscapes.",
+      "tags": [
+        "Ancient",
+        "China",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "D4We67",
+      "name": "Pirate's Booty",
+      "theme": "Pirate Adventure",
+      "volatility": "High",
+      "rtp": 97.0,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 15000,
+      "special_features": [
+        "Treasure Map",
+        "Mystery Symbols",
+        "Walking Wilds"
+      ],
+      "art_style": "Realistic",
+      "provider_style": "Pragmatic Play",
+      "target_audience": "Thrill Seekers",
+      "description": "Set sail on the high seas in search of untold riches. Navigate through thrilling features like walking wilds and unravel the mysteries of the treasure map.",
+      "tags": [
+        "Pirates",
+        "Adventure",
+        "Treasure"
+      ]
+    },
+    {
+      "id": "E5Vf78",
+      "name": "Neon Nights",
+      "theme": "Retro 80s",
+      "volatility": "Medium",
+      "rtp": 93.8,
+      "reels": 5,
+      "paylines": 40,
+      "max_win_x": 6000,
+      "special_features": [
+        "Scatter Pays",
+        "Expanding Wilds",
+        "Respin Until Win"
+      ],
+      "art_style": "Neon",
+      "provider_style": "Yggdrasil",
+      "target_audience": "Retro Lovers",
+      "description": "Step into the dazzling neon lights of the 1980s club scene. Relive the era of vibrant colors and synth beats with exciting features that keep you spinning.",
+      "tags": [
+        "Retro",
+        "80s",
+        "Music"
+      ]
+    },
+    {
+      "id": "F6Ug89",
+      "name": "Arctic Wonders",
+      "theme": "Polar Expedition",
+      "volatility": "Low",
+      "rtp": 95.9,
+      "reels": 6,
+      "paylines": 30,
+      "max_win_x": 4000,
+      "special_features": [
+        "Frozen Wilds",
+        "Pick Bonus",
+        "Snowstorm Respins"
+      ],
+      "art_style": "Photorealistic",
+      "provider_style": "Microgaming",
+      "target_audience": "Nature Lovers",
+      "description": "Embark on an icy adventure to the Arctic where breathtaking landscapes hide bountiful treasures. Witness the magic of nature with frozen wilds and snowy features.",
+      "tags": [
+        "Nature",
+        "Polar",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "G7Wh90",
+      "name": "Vampire's Requiem",
+      "theme": "Gothic Horror",
+      "volatility": "High",
+      "rtp": 92.7,
+      "reels": 5,
+      "paylines": 10,
+      "max_win_x": 20000,
+      "special_features": [
+        "Blood Moon Bonus",
+        "Fanged Wilds",
+        "Coffin Scatters"
+      ],
+      "art_style": "Gothic",
+      "provider_style": "Red Tiger",
+      "target_audience": "Horror Fans",
+      "description": "Enter the dark and mysterious world of vampires, where eternal life and untold riches await. Survive the night with thrilling features that promise spine-chilling excitement.",
+      "tags": [
+        "Horror",
+        "Vampires",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "H8Xi12",
+      "name": "Fiesta Loco",
+      "theme": "Mexican Festival",
+      "volatility": "Medium",
+      "rtp": 96.5,
+      "reels": 5,
+      "paylines": 243,
+      "max_win_x": 8000,
+      "special_features": [
+        "Multipliers",
+        "Free Spins Fiesta",
+        "Wild Piñatas"
+      ],
+      "art_style": "Vibrant",
+      "provider_style": "Blueprint Gaming",
+      "target_audience": "Festival Lovers",
+      "description": "Join the fiesta with lively music, colorful costumes, and endless celebrations. Hit the reels to unlock wild piñatas and multipliers for a party to remember.",
+      "tags": [
+        "Festival",
+        "Mexico",
+        "Celebration"
+      ]
+    },
+    {
+      "id": "I9Yj23",
+      "name": "Deep Sea Quest",
+      "theme": "Underwater Adventure",
+      "volatility": "Low",
+      "rtp": 94.3,
+      "reels": 3,
+      "paylines": 5,
+      "max_win_x": 2500,
+      "special_features": [
+        "Sunken Treasure Bonus",
+        "Sticky Wilds",
+        "Respins"
+      ],
+      "art_style": "Whimsical",
+      "provider_style": "Quickspin",
+      "target_audience": "Casual Gamers",
+      "description": "Dive into the ocean's depths and uncover treasures lost to the sea. Enjoy a relaxing gaming experience with whimsical art and charming features.",
+      "tags": [
+        "Ocean",
+        "Treasure",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "J0Zk34",
+      "name": "Mystical Mayhem",
+      "theme": "Fantasy",
+      "volatility": "Medium",
+      "rtp": 95.7,
+      "reels": 5,
+      "paylines": 15,
+      "max_win_x": 9000,
+      "special_features": [
+        "Magic Spells",
+        "Transforming Symbols",
+        "Mystery Reels"
+      ],
+      "art_style": "Fantasy",
+      "provider_style": "Betsoft",
+      "target_audience": "Fantasy Lovers",
+      "description": "Step into a world of magic and wonder where mystical creatures and powerful spells rule the reels. Harness the magic for a bewitching experience full of surprises.",
+      "tags": [
+        "Fantasy",
+        "Magic",
+        "Creatures"
+      ]
+    },
+    {
+      "id": "a1b2c3d4",
+      "name": "Pirate's Treasure Quest",
+      "theme": "Pirates",
+      "volatility": "High",
+      "rtp": 96.5,
+      "reels": 5,
+      "paylines": 243,
+      "max_win_x": 10000,
+      "special_features": [
+        "Free Spins",
+        "Wild Multipliers",
+        "Treasure Chest Bonus"
+      ],
+      "art_style": "3D Realistic",
+      "provider_style": "Nautical Adventure",
+      "target_audience": "Adventure Seekers",
+      "description": "Embark on a thrilling voyage across the seven seas in search of hidden treasures. Navigate through stormy waters and discover secret islands full of riches. With each spin, uncover wild multipliers and trigger exciting free spins to boost your winnings.",
+      "tags": [
+        "Pirates",
+        "Adventure",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "e5f6g7h8",
+      "name": "Enchanted Forest",
+      "theme": "Fantasy",
+      "volatility": "Medium",
+      "rtp": 94.8,
+      "reels": 6,
+      "paylines": "cluster",
+      "max_win_x": 8000,
+      "special_features": [
+        "Cluster Pays",
+        "Magic Wilds",
+        "Mystical Free Spins"
+      ],
+      "art_style": "Illustrative Fantasy",
+      "provider_style": "Fairy Tale",
+      "target_audience": "Fantasy Enthusiasts",
+      "description": "Step into a magical forest where fairies, elves, and mystical creatures dwell. Every spin unveils enchantments with cluster pays and magical wilds that transform your gameplay experience. Uncover hidden treasures by triggering the mystical free spins feature.",
+      "tags": [
+        "Fantasy",
+        "Magic",
+        "Mystical"
+      ]
+    },
+    {
+      "id": "i9j0k1l2",
+      "name": "Galactic Gold",
+      "theme": "Space",
+      "volatility": "Low",
+      "rtp": 97.0,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 5000,
+      "special_features": [
+        "Expanding Wilds",
+        "Re-spins",
+        "Cosmic Bonus Game"
+      ],
+      "art_style": "Futuristic",
+      "provider_style": "Sci-Fi Adventure",
+      "target_audience": "Sci-Fi Fans",
+      "description": "Blast off into the cosmos and explore the universe filled with interstellar riches. Encounter expanding wilds and re-spins as you journey through the stars. Unlock the cosmic bonus game to increase your chances of striking the galactic jackpot.",
+      "tags": [
+        "Space",
+        "Sci-Fi",
+        "Low Volatility"
+      ]
+    },
+    {
+      "id": "m3n4o5p6",
+      "name": "Wild West Bounty",
+      "theme": "Western",
+      "volatility": "High",
+      "rtp": 92.7,
+      "reels": 5,
+      "paylines": 40,
+      "max_win_x": 12000,
+      "special_features": [
+        "Sticky Wilds",
+        "Bounty Free Spins",
+        "Wanted Poster Bonus"
+      ],
+      "art_style": "Cartoon Western",
+      "provider_style": "Old West",
+      "target_audience": "Western Lovers",
+      "description": "Saddle up and ride into the Wild West in pursuit of bounties and legendary outlaws. This high-stakes adventure features sticky wilds and bounty free spins that increase your haul. Capture outlaws on the wanted poster bonus for big rewards.",
+      "tags": [
+        "Western",
+        "Cowboys",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "q7r8s9t0",
+      "name": "Egyptian Secrets",
+      "theme": "Ancient Egypt",
+      "volatility": "Medium",
+      "rtp": 95.3,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 7500,
+      "special_features": [
+        "Expanding Symbols",
+        "Free Spins",
+        "Scarab Jackpot"
+      ],
+      "art_style": "Ancient Egyptian",
+      "provider_style": "Historical Adventure",
+      "target_audience": "History Buffs",
+      "description": "Uncover the mysteries of ancient Egypt and the secrets hidden within the pyramids. With expanding symbols and the scarab jackpot, each spin brings you closer to untold riches. Trigger the free spins feature to delve deeper into the tombs of the pharaohs.",
+      "tags": [
+        "Egypt",
+        "History",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "u1v2w3x4",
+      "name": "Candy Kingdom",
+      "theme": "Candy",
+      "volatility": "Low",
+      "rtp": 96.2,
+      "reels": 7,
+      "paylines": "cluster",
+      "max_win_x": 6000,
+      "special_features": [
+        "Cascading Wins",
+        "Sweet Wilds",
+        "Candy Cascades"
+      ],
+      "art_style": "Vibrant Cartoon",
+      "provider_style": "Whimsical",
+      "target_audience": "Casual Gamblers",
+      "description": "Enter a world of sugary delights and treat yourself to a feast of candy-filled action. Experience cascading wins and sweet wilds that enhance your gameplay. Witness the candy cascades that bring endless fun and delectable rewards.",
+      "tags": [
+        "Candy",
+        "Fun",
+        "Colorful"
+      ]
+    },
+    {
+      "id": "y5z6a7b8",
+      "name": "Samurai's Honor",
+      "theme": "Samurai",
+      "volatility": "Medium",
+      "rtp": 95.7,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 9000,
+      "special_features": [
+        "Ninja Wilds",
+        "Honor Free Spins",
+        "Sword Battle Bonus"
+      ],
+      "art_style": "Traditional Japanese",
+      "provider_style": "Cultural",
+      "target_audience": "Martial Arts Fans",
+      "description": "Honor and bravery are your allies as you step into the shoes of a noble samurai. Experience ninja wilds and honor free spins that elevate your quest for glory. Engage in the sword battle bonus to challenge worthy foes and claim your reward.",
+      "tags": [
+        "Samurai",
+        "Culture",
+        "Battle"
+      ]
+    },
+    {
+      "id": "c9d8e7f6",
+      "name": "Vampire's Curse",
+      "theme": "Gothic Horror",
+      "volatility": "High",
+      "rtp": 93.9,
+      "reels": 6,
+      "paylines": 1024,
+      "max_win_x": 15000,
+      "special_features": [
+        "Blood Moon Free Spins",
+        "Vampire Wilds",
+        "Haunted Castle Bonus"
+      ],
+      "art_style": "Gothic",
+      "provider_style": "Dark Fantasy",
+      "target_audience": "Horror Enthusiasts",
+      "description": "Delve into the darkness where vampires reign supreme and the night hides many secrets. With vampire wilds and the eerie blood moon free spins, your courage will be tested. Discover hidden treasures within the haunted castle bonus.",
+      "tags": [
+        "Vampires",
+        "Horror",
+        "Gothic"
+      ]
+    },
+    {
+      "id": "g5h6i7j8",
+      "name": "Jungle Safari",
+      "theme": "Wildlife",
+      "volatility": "Low",
+      "rtp": 96.8,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 4000,
+      "special_features": [
+        "Safari Wilds",
+        "Animal Free Spins",
+        "Jungle Adventure Bonus"
+      ],
+      "art_style": "Realistic",
+      "provider_style": "Nature Exploration",
+      "target_audience": "Nature Lovers",
+      "description": "Embark on a thrilling safari through the untamed wilderness, home to exotic animals and hidden treasures. Safari wilds and animal free spins enhance your adventure, while the jungle adventure bonus offers a chance to collect rare rewards.",
+      "tags": [
+        "Jungle",
+        "Animals",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "k1l2m3n4",
+      "name": "Steampunk Fortune",
+      "theme": "Steampunk",
+      "volatility": "Medium",
+      "rtp": 94.5,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 7000,
+      "special_features": [
+        "Gear Wilds",
+        "Steam Free Spins",
+        "Invention Bonus Game"
+      ],
+      "art_style": "Steampunk",
+      "provider_style": "Alternative History",
+      "target_audience": "Steampunk Enthusiasts",
+      "description": "Step into an alternative reality where steam power reigns supreme and mechanical wonders await. Discover gear wilds and steam free spins in your quest for fortune. Tinker with the invention bonus game to unlock unique and rewarding contraptions.",
+      "tags": [
+        "Steampunk",
+        "Inventive",
+        "Mechanical"
+      ]
+    },
+    {
+      "id": "A8Z4Lx9P",
+      "name": "Pirate's Plunder",
+      "theme": "Pirates",
+      "volatility": "High",
+      "rtp": 96.5,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 5000,
+      "special_features": [
+        "Free Spins",
+        "Wild Multipliers",
+        "Treasure Hunt Bonus"
+      ],
+      "art_style": "Cartoonish",
+      "provider_style": "Adventure Gaming",
+      "target_audience": "Adventure Lovers",
+      "description": "Set sail on the high seas with Pirate's Plunder, where daring pirates and hidden treasures await! Spin your way through 5 exciting reels and uncover riches with wild multipliers and a thrilling treasure hunt bonus game.",
+      "tags": [
+        "Pirates",
+        "Adventure",
+        "High Volatility",
+        "Bonus Games"
+      ]
+    },
+    {
+      "id": "B7F3Kp2V",
+      "name": "Neon City Nights",
+      "theme": "Futuristic",
+      "volatility": "Medium",
+      "rtp": 94.7,
+      "reels": 6,
+      "paylines": "cluster",
+      "max_win_x": 10000,
+      "special_features": [
+        "Cluster Pays",
+        "Avalanche Reels",
+        "Neon Wilds"
+      ],
+      "art_style": "Retro Neon",
+      "provider_style": "Futuristic Studios",
+      "target_audience": "Sci-Fi Enthusiasts",
+      "description": "Immerse yourself in the vibrant world of Neon City Nights, where every spin is a pulsating journey through a neon-lit metropolis. With Cluster Pays and Neon Wilds, win big while enjoying the retro-futuristic vibe.",
+      "tags": [
+        "Futuristic",
+        "Neon",
+        "Cluster Pays",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "C9J0Wp7Q",
+      "name": "Mystic Jungle",
+      "theme": "Jungle",
+      "volatility": "Low",
+      "rtp": 95.2,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 2000,
+      "special_features": [
+        "Expanding Wilds",
+        "Mystery Symbols",
+        "Free Spins"
+      ],
+      "art_style": "Realistic",
+      "provider_style": "Nature Slots Inc.",
+      "target_audience": "Nature Lovers",
+      "description": "Explore the lush Mystic Jungle, where the serene sounds of nature meet the excitement of big wins. With Expanding Wilds and Mystery Symbols, every spin offers a new adventure in the heart of the jungle.",
+      "tags": [
+        "Jungle",
+        "Nature",
+        "Low Volatility",
+        "Mystery Symbols"
+      ]
+    },
+    {
+      "id": "D4N6Yq3S",
+      "name": "Ancient Egyptian Treasures",
+      "theme": "Ancient Egypt",
+      "volatility": "High",
+      "rtp": 92.8,
+      "reels": 5,
+      "paylines": 40,
+      "max_win_x": 7500,
+      "special_features": [
+        "Pyramid Bonus",
+        "Expanding Wilds",
+        "Free Spins"
+      ],
+      "art_style": "Classic Egyptian",
+      "provider_style": "Pharaoh's Games",
+      "target_audience": "History Buffs",
+      "description": "Uncover the secrets of the pharaohs in Ancient Egyptian Treasures. This high volatility slot offers a chance to win big with Pyramid Bonuses and Expanding Wilds amidst the sands of time.",
+      "tags": [
+        "Egypt",
+        "High Volatility",
+        "Historical",
+        "Pyramids"
+      ]
+    },
+    {
+      "id": "E5M1Rs8D",
+      "name": "Candy Carnival",
+      "theme": "Candy",
+      "volatility": "Medium",
+      "rtp": 95.9,
+      "reels": 7,
+      "paylines": "cluster",
+      "max_win_x": 3000,
+      "special_features": [
+        "Cascading Wins",
+        "Candy Bombs",
+        "Free Spins"
+      ],
+      "art_style": "Whimsical",
+      "provider_style": "Sweet Gaming",
+      "target_audience": "Casual Gamers",
+      "description": "Enter the sugary world of Candy Carnival, where colorful candies explode with each spin! With Cascading Wins and Candy Bombs, this game is a sweet treat for players looking for fun and excitement.",
+      "tags": [
+        "Candy",
+        "Cluster Pays",
+        "Medium Volatility",
+        "Whimsical"
+      ]
+    },
+    {
+      "id": "F6K7Uv1P",
+      "name": "Space Adventure",
+      "theme": "Space",
+      "volatility": "Medium",
+      "rtp": 97.0,
+      "reels": 6,
+      "paylines": 50,
+      "max_win_x": 5000,
+      "special_features": [
+        "Black Hole Wilds",
+        "Alien Encounters Bonus",
+        "Free Spins"
+      ],
+      "art_style": "3D Sci-Fi",
+      "provider_style": "Cosmic Slots",
+      "target_audience": "Sci-Fi Fans",
+      "description": "Blast off into the cosmos with Space Adventure, a slot game filled with Black Hole Wilds and Alien Encounters Bonuses. Explore the galaxy and unravel its mysteries while aiming for stellar rewards.",
+      "tags": [
+        "Space",
+        "Sci-Fi",
+        "Medium Volatility",
+        "Bonus Features"
+      ]
+    },
+    {
+      "id": "G7L3Bx4H",
+      "name": "Viking Voyage",
+      "theme": "Vikings",
+      "volatility": "High",
+      "rtp": 94.3,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 6000,
+      "special_features": [
+        "Raid Bonus",
+        "Expanding Wilds",
+        "Free Spins"
+      ],
+      "art_style": "Nordic",
+      "provider_style": "Mythology Slots",
+      "target_audience": "Mythology Enthusiasts",
+      "description": "Join the legendary Norse warriors on a Viking Voyage, where fierce battles and rewarding treasures await. With Raid Bonuses and Expanding Wilds, this high volatility slot offers epic adventures.",
+      "tags": [
+        "Vikings",
+        "High Volatility",
+        "Mythology",
+        "Nordic"
+      ]
+    },
+    {
+      "id": "H8R5Jv2K",
+      "name": "Wild West Showdown",
+      "theme": "Wild West",
+      "volatility": "Medium",
+      "rtp": 95.0,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 4500,
+      "special_features": [
+        "Duel Feature",
+        "Sticky Wilds",
+        "Free Spins"
+      ],
+      "art_style": "Western",
+      "provider_style": "Frontier Games",
+      "target_audience": "Western Fans",
+      "description": "Saddle up for the Wild West Showdown, where duels and sticky wilds bring the frontier to life. Experience the thrill of the Wild West with every spin and win big in the dusty towns of the Old West.",
+      "tags": [
+        "Western",
+        "Medium Volatility",
+        "Duel Feature",
+        "Sticky Wilds"
+      ]
+    },
+    {
+      "id": "I9T2Zp5M",
+      "name": "Dragon's Fortune",
+      "theme": "Fantasy",
+      "volatility": "Low",
+      "rtp": 96.2,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 2500,
+      "special_features": [
+        "Dragon's Breath Wilds",
+        "Magic Spins",
+        "Treasure Chest Bonus"
+      ],
+      "art_style": "Fantasy",
+      "provider_style": "Mystic Gaming",
+      "target_audience": "Fantasy Fans",
+      "description": "Embark on a magical quest in Dragon's Fortune, where mystical dragons and enchanted treasures await. With Dragon's Breath Wilds and a Treasure Chest Bonus, this low volatility slot is perfect for fantasy lovers.",
+      "tags": [
+        "Fantasy",
+        "Low Volatility",
+        "Dragons",
+        "Magic"
+      ]
+    },
+    {
+      "id": "J0U9Qm6L",
+      "name": "Carnival of Venice",
+      "theme": "Carnival",
+      "volatility": "Medium",
+      "rtp": 93.6,
+      "reels": 5,
+      "paylines": 243,
+      "max_win_x": 4000,
+      "special_features": [
+        "Masquerade Wilds",
+        "Venetian Bonus",
+        "Free Spins"
+      ],
+      "art_style": "Elegant",
+      "provider_style": "Cultural Slots",
+      "target_audience": "Culture Lovers",
+      "description": "Celebrate the Carnival of Venice with elegant masks and extravagant parties. This medium volatility slot offers Masquerade Wilds and a Venetian Bonus, bringing the charm of Venice to life.",
+      "tags": [
+        "Carnival",
+        "Venice",
+        "Medium Volatility",
+        "Cultural"
+      ]
+    },
+    {
+      "id": "a1b2c3",
+      "name": "Treasure of the Pharaohs",
+      "theme": "Ancient Egypt",
+      "volatility": "High",
+      "rtp": 96.5,
+      "reels": 5,
+      "paylines": 10,
+      "max_win_x": 5000,
+      "special_features": [
+        "Free Spins",
+        "Expanding Wilds",
+        "Multipliers"
+      ],
+      "art_style": "Realistic 3D",
+      "provider_style": "Play'n GO",
+      "target_audience": "Fans of historical themes",
+      "description": "Venture into the mystical sands of Egypt to uncover the lost treasure of the Pharaohs. Experience the thrill of expanding wilds and multipliers that can lead you to riches beyond imagination.",
+      "tags": [
+        "Ancient Egypt",
+        "Free Spins",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "d4e5f6",
+      "name": "Alien Invasion",
+      "theme": "Science Fiction",
+      "volatility": "Medium",
+      "rtp": 94.8,
+      "reels": 6,
+      "paylines": "cluster",
+      "max_win_x": 7500,
+      "special_features": [
+        "Cluster Pays",
+        "Alien Wilds",
+        "Re-Spins"
+      ],
+      "art_style": "Futuristic Neon",
+      "provider_style": "NetEnt",
+      "target_audience": "Sci-Fi enthusiasts",
+      "description": "Defend Earth from an alien invasion in this high-octane slot game. Utilize alien wilds and cluster pays to fend off the extraterrestrial threat and secure big wins.",
+      "tags": [
+        "Sci-Fi",
+        "Cluster Pays",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "g7h8i9",
+      "name": "Spooky Hollow",
+      "theme": "Horror",
+      "volatility": "Low",
+      "rtp": 92.7,
+      "reels": 4,
+      "paylines": 25,
+      "max_win_x": 1500,
+      "special_features": [
+        "Mystery Symbols",
+        "Cascading Reels"
+      ],
+      "art_style": "Gothic Cartoon",
+      "provider_style": "Yggdrasil",
+      "target_audience": "Casual players",
+      "description": "Enter the eerie world of Spooky Hollow, where mystery symbols and cascading reels create a ghastly good time with every spin. Ideal for casual players looking for a light-hearted fright.",
+      "tags": [
+        "Horror",
+        "Mystery Symbols",
+        "Low Volatility"
+      ]
+    },
+    {
+      "id": "j0k1l2",
+      "name": "Diamond Blitz",
+      "theme": "Luxury",
+      "volatility": "Medium",
+      "rtp": 95.5,
+      "reels": 5,
+      "paylines": 15,
+      "max_win_x": 3000,
+      "special_features": [
+        "Free Spins",
+        "Sticky Wilds"
+      ],
+      "art_style": "Classic Glamour",
+      "provider_style": "Microgaming",
+      "target_audience": "Slot purists",
+      "description": "Step into the world of opulence with Diamond Blitz. Trigger sticky wilds and free spins to rake in sparkling wins amid the backdrop of timeless elegance.",
+      "tags": [
+        "Luxury",
+        "Sticky Wilds",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "m3n4o5",
+      "name": "Jungle Quest",
+      "theme": "Adventure",
+      "volatility": "High",
+      "rtp": 96.1,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 10000,
+      "special_features": [
+        "Progressive Jackpots",
+        "Free Spins"
+      ],
+      "art_style": "Comic Book",
+      "provider_style": "Quickspin",
+      "target_audience": "Adventure seekers",
+      "description": "Embark on an epic adventure through the untamed jungle. Collect treasures and unlock progressive jackpots with free spins to maximize your quest.",
+      "tags": [
+        "Adventure",
+        "Progressive Jackpots",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "p6q7r8",
+      "name": "Candy Carnival",
+      "theme": "Sweet Treats",
+      "volatility": "Low",
+      "rtp": 93.9,
+      "reels": 3,
+      "paylines": 5,
+      "max_win_x": 1200,
+      "special_features": [
+        "Multipliers",
+        "Cascading Wins"
+      ],
+      "art_style": "Colorful Pastels",
+      "provider_style": "Pragmatic Play",
+      "target_audience": "Family-friendly gaming",
+      "description": "Indulge in a world of sweetness with Candy Carnival. Experience cascading wins and multipliers that make every spin a sugar-coated delight.",
+      "tags": [
+        "Candy",
+        "Cascading Wins",
+        "Low Volatility"
+      ]
+    },
+    {
+      "id": "s9t0u1",
+      "name": "Pirate's Fortune",
+      "theme": "Pirates",
+      "volatility": "Medium",
+      "rtp": 95.2,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 4000,
+      "special_features": [
+        "Treasure Maps",
+        "Free Spins"
+      ],
+      "art_style": "Illustrative",
+      "provider_style": "Red Tiger",
+      "target_audience": "Players seeking adventure",
+      "description": "Sail the seven seas in search of Pirate's Fortune. Discover treasure maps that lead to free spins and uncover hidden riches.",
+      "tags": [
+        "Pirates",
+        "Free Spins",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "v2w3x4",
+      "name": "Mythical Beasts",
+      "theme": "Fantasy",
+      "volatility": "High",
+      "rtp": 96.7,
+      "reels": 7,
+      "paylines": "cluster",
+      "max_win_x": 8000,
+      "special_features": [
+        "Dragon Wilds",
+        "Free Spins",
+        "Mystery Boxes"
+      ],
+      "art_style": "Epic Fantasy",
+      "provider_style": "Thunderkick",
+      "target_audience": "Fantasy lovers",
+      "description": "Unleash the power of mythical beasts in this epic fantasy slot. With dragon wilds and mystery boxes, every spin can lead to legendary wins.",
+      "tags": [
+        "Fantasy",
+        "Dragon Wilds",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "y5z6a7",
+      "name": "Retro Rewind",
+      "theme": "1980s",
+      "volatility": "Low",
+      "rtp": 94.3,
+      "reels": 3,
+      "paylines": 9,
+      "max_win_x": 2500,
+      "special_features": [
+        "Respin Feature",
+        "Wild Multipliers"
+      ],
+      "art_style": "Pixel Art",
+      "provider_style": "Elk Studios",
+      "target_audience": "Nostalgic gamers",
+      "description": "Travel back to the 1980s with Retro Rewind. Engage in pixel art graphics and a respin feature that amplifies your chances with wild multipliers.",
+      "tags": [
+        "1980s",
+        "Pixel Art",
+        "Low Volatility"
+      ]
+    },
+    {
+      "id": "b8c9d0",
+      "name": "Galactic Gold",
+      "theme": "Space",
+      "volatility": "Medium",
+      "rtp": 97.0,
+      "reels": 5,
+      "paylines": 40,
+      "max_win_x": 6000,
+      "special_features": [
+        "Astro Wilds",
+        "Free Spins",
+        "Bonus Game"
+      ],
+      "art_style": "Futuristic",
+      "provider_style": "Betsoft",
+      "target_audience": "Science and space fans",
+      "description": "Explore the cosmos in search of Galactic Gold. Utilize astro wilds and engage in bonus games to uncover astronomical rewards in this medium volatility slot.",
+      "tags": [
+        "Space",
+        "Astro Wilds",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "1a2b3c4d",
+      "name": "Pirate's Cove",
+      "theme": "Pirate Adventure",
+      "volatility": "High",
+      "rtp": 96.5,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 5000,
+      "special_features": [
+        "Free Spins",
+        "Treasure Chest Bonus",
+        "Expanding Wilds"
+      ],
+      "art_style": "Cartoon",
+      "provider_style": "Cartoony",
+      "target_audience": "Adventure seekers",
+      "description": "Set sail on the high seas in search of treasure and glory. With swashbuckling pirates, hidden treasure chests, and expanding wilds, every spin is an adventure.",
+      "tags": [
+        "Adventure",
+        "Pirates",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "2d3e4f5g",
+      "name": "Enchanted Forest",
+      "theme": "Fantasy",
+      "volatility": "Medium",
+      "rtp": 95.1,
+      "reels": 5,
+      "paylines": 243,
+      "max_win_x": 3000,
+      "special_features": [
+        "Mystery Symbols",
+        "Free Spins",
+        "Multipliers"
+      ],
+      "art_style": "Fairytale",
+      "provider_style": "Magical",
+      "target_audience": "Fantasy enthusiasts",
+      "description": "Explore a mystical forest filled with magical creatures and hidden treasures. Uncover mystery symbols and unleash powerful multipliers in this enchanting slot.",
+      "tags": [
+        "Fantasy",
+        "Mystical",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "3f4g5h6i",
+      "name": "Space Odyssey",
+      "theme": "Science Fiction",
+      "volatility": "High",
+      "rtp": 96.2,
+      "reels": 6,
+      "paylines": "cluster",
+      "max_win_x": 10000,
+      "special_features": [
+        "Cascading Reels",
+        "Galactic Wilds",
+        "Alien Invasion Bonus"
+      ],
+      "art_style": "Futuristic",
+      "provider_style": "Sci-Fi",
+      "target_audience": "Sci-fi lovers",
+      "description": "Embark on an interstellar journey through the cosmos. With cascading reels and a thrilling alien invasion bonus, this slot offers a galactic adventure like no other.",
+      "tags": [
+        "Sci-Fi",
+        "Space",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "4h5i6j7k",
+      "name": "Wild West Gold",
+      "theme": "Western",
+      "volatility": "Medium",
+      "rtp": 94.9,
+      "reels": 5,
+      "paylines": 40,
+      "max_win_x": 4000,
+      "special_features": [
+        "Sticky Wilds",
+        "Free Spins",
+        "Gold Rush Bonus"
+      ],
+      "art_style": "Realistic",
+      "provider_style": "Western",
+      "target_audience": "Western fans",
+      "description": "Ride into the sunset with Wild West Gold. Experience the thrill of the gold rush with sticky wilds and a lucrative bonus round.",
+      "tags": [
+        "Western",
+        "Gold Rush",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "5j6k7l8m",
+      "name": "Candy Kingdom",
+      "theme": "Candy Land",
+      "volatility": "Low",
+      "rtp": 95.6,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 2000,
+      "special_features": [
+        "Sweet Spins",
+        "Candy Cascade",
+        "Re-spin Features"
+      ],
+      "art_style": "Colorful",
+      "provider_style": "Sweet",
+      "target_audience": "Casual players",
+      "description": "Enter the delightful world of Candy Kingdom, where sugary treats abound. With candy cascade features and sweet spins, every round is a sugar-coated delight.",
+      "tags": [
+        "Candy",
+        "Cute",
+        "Low Volatility"
+      ]
+    },
+    {
+      "id": "6k7l8m9n",
+      "name": "Viking's Glory",
+      "theme": "Norse Mythology",
+      "volatility": "High",
+      "rtp": 97.0,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 6000,
+      "special_features": [
+        "Ragnarok Free Spins",
+        "Viking Battle Bonus",
+        "Wild Ships"
+      ],
+      "art_style": "Epic",
+      "provider_style": "Norse",
+      "target_audience": "Mythology fans",
+      "description": "Join the fearless Vikings on their quest for glory. With epic battles and legendary free spins, this slot offers a heroic adventure.",
+      "tags": [
+        "Mythology",
+        "Vikings",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "7m8n9o0p",
+      "name": "Egyptian Riches",
+      "theme": "Ancient Egypt",
+      "volatility": "Medium",
+      "rtp": 95.7,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 3500,
+      "special_features": [
+        "Pyramid Free Spins",
+        "Pharaoh's Fortune Bonus",
+        "Expanding Wilds"
+      ],
+      "art_style": "Ancient",
+      "provider_style": "Egyptian",
+      "target_audience": "History buffs",
+      "description": "Discover the hidden treasures of ancient Egypt. With pyramid free spins and Pharaoh's fortune bonuses, this slot is a journey through time.",
+      "tags": [
+        "Ancient Egypt",
+        "Treasures",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "8n9o0p1q",
+      "name": "Zombie Apocalypse",
+      "theme": "Zombie Survival",
+      "volatility": "High",
+      "rtp": 94.5,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 7500,
+      "special_features": [
+        "Infectious Wilds",
+        "Survivor Bonus",
+        "Free Spin Frenzy"
+      ],
+      "art_style": "Dark",
+      "provider_style": "Horror",
+      "target_audience": "Thrill seekers",
+      "description": "Survive the zombie apocalypse in this thrilling slot. With infectious wilds and a survivor bonus, every spin is a fight for survival.",
+      "tags": [
+        "Horror",
+        "Zombies",
+        "High Volatility"
+      ]
+    },
+    {
+      "id": "9p0q1r2s",
+      "name": "Fiesta Mexicana",
+      "theme": "Mexican Celebration",
+      "volatility": "Low",
+      "rtp": 93.8,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 1500,
+      "special_features": [
+        "Pinata Bonus",
+        "Free Spins",
+        "Wild Mariachis"
+      ],
+      "art_style": "Festive",
+      "provider_style": "Cultural",
+      "target_audience": "Party goers",
+      "description": "Join the vibrant celebration of Fiesta Mexicana. With wild mariachis and a fun pinata bonus, this slot is a fiesta on the reels.",
+      "tags": [
+        "Celebration",
+        "Festive",
+        "Low Volatility"
+      ]
+    },
+    {
+      "id": "0q1r2s3t",
+      "name": "Safari Adventure",
+      "theme": "African Safari",
+      "volatility": "Medium",
+      "rtp": 96.8,
+      "reels": 5,
+      "paylines": 1024,
+      "max_win_x": 4500,
+      "special_features": [
+        "Stampede Spins",
+        "Wild Animals",
+        "Safari Bonus"
+      ],
+      "art_style": "Natural",
+      "provider_style": "Wildlife",
+      "target_audience": "Nature lovers",
+      "description": "Embark on a thrilling safari through the African savannah. Spot wild animals and trigger exciting features on this adventurous slot.",
+      "tags": [
+        "Nature",
+        "Animals",
+        "Medium Volatility"
+      ]
+    },
+    {
+      "id": "a1b2c3d4",
+      "name": "Mystic Garden",
+      "theme": "Enchanted Forest",
+      "volatility": "Medium",
+      "rtp": 96.3,
+      "reels": 5,
+      "paylines": 20,
+      "max_win_x": 1000,
+      "special_features": [
+        "Free Spins",
+        "Expanding Wilds",
+        "Mystery Symbols"
+      ],
+      "art_style": "Illustrated",
+      "provider_style": "Fantasy",
+      "target_audience": "Casual Players",
+      "description": "Enter the Mystic Garden, where glowing flowers and magical creatures hide incredible treasures. Spin through lush visuals and experience enchanting features.",
+      "tags": [
+        "Fantasy",
+        "Nature",
+        "Magic"
+      ]
+    },
+    {
+      "id": "e5f6g7h8",
+      "name": "Cyber City Chase",
+      "theme": "Futuristic Heist",
+      "volatility": "High",
+      "rtp": 95.1,
+      "reels": 6,
+      "paylines": 4096,
+      "max_win_x": 5000,
+      "special_features": [
+        "Cascading Reels",
+        "Multiplier Wilds",
+        "Bonus Game"
+      ],
+      "art_style": "Cyberpunk",
+      "provider_style": "Techno",
+      "target_audience": "Thrill Seekers",
+      "description": "Navigate the neon-lit streets of a cyberpunk city, seeking fortune amidst the chaos. Uncover bonuses and high-octane thrills in this heist-themed slot.",
+      "tags": [
+        "Futuristic",
+        "Heist",
+        "Action"
+      ]
+    },
+    {
+      "id": "i9j0k1l2",
+      "name": "Spooky Mansion",
+      "theme": "Haunted House",
+      "volatility": "Low",
+      "rtp": 93.2,
+      "reels": 3,
+      "paylines": 5,
+      "max_win_x": 800,
+      "special_features": [
+        "Sticky Wilds",
+        "Re-Spin Feature"
+      ],
+      "art_style": "Cartoonish",
+      "provider_style": "Horror",
+      "target_audience": "Casual Horror Fans",
+      "description": "Venture into the Spooky Mansion, where friendly ghosts and mysterious sounds create an eerie yet amusing environment. Enjoy simple gameplay with spooky surprises.",
+      "tags": [
+        "Halloween",
+        "Ghosts",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "m3n4o5p6",
+      "name": "Galactic Gems",
+      "theme": "Space Exploration",
+      "volatility": "Medium",
+      "rtp": 97.0,
+      "reels": 5,
+      "paylines": "cluster",
+      "max_win_x": 1500,
+      "special_features": [
+        "Cluster Pays",
+        "Expanding Reels",
+        "Free Spins"
+      ],
+      "art_style": "3D",
+      "provider_style": "Sci-Fi",
+      "target_audience": "Sci-Fi Enthusiasts",
+      "description": "Blast off into the cosmos and collect glowing gems from distant galaxies. With cluster pays and expanding reels, every spin is an adventure.",
+      "tags": [
+        "Space",
+        "Gems",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "q7r8s9t0",
+      "name": "Pirate's Gold",
+      "theme": "Pirate Adventure",
+      "volatility": "High",
+      "rtp": 94.5,
+      "reels": 5,
+      "paylines": 50,
+      "max_win_x": 6000,
+      "special_features": [
+        "Treasure Chest Bonus",
+        "Expanding Wilds",
+        "Free Spins"
+      ],
+      "art_style": "Realistic",
+      "provider_style": "Adventure",
+      "target_audience": "Adventure Seekers",
+      "description": "Set sail on the high seas in search of Pirate's Gold. Uncover hidden treasures and navigate treacherous waters for a chance at massive rewards.",
+      "tags": [
+        "Pirates",
+        "Treasure",
+        "Sea"
+      ]
+    },
+    {
+      "id": "u1v2w3x4",
+      "name": "Egyptian Mystique",
+      "theme": "Ancient Egypt",
+      "volatility": "Medium",
+      "rtp": 96.2,
+      "reels": 5,
+      "paylines": 25,
+      "max_win_x": 2000,
+      "special_features": [
+        "Walking Wilds",
+        "Multiplier Feature",
+        "Free Spins"
+      ],
+      "art_style": "Hieroglyphic",
+      "provider_style": "Historical",
+      "target_audience": "History Buffs",
+      "description": "Unearth the secrets of Ancient Egypt with Egyptian Mystique. Explore tombs and uncover secrets that lead to incredible riches.",
+      "tags": [
+        "Egypt",
+        "Pharaoh",
+        "Pyramids"
+      ]
+    },
+    {
+      "id": "y5z6a7b8",
+      "name": "Wild West Showdown",
+      "theme": "Western",
+      "volatility": "Medium",
+      "rtp": 95.8,
+      "reels": 4,
+      "paylines": 40,
+      "max_win_x": 2500,
+      "special_features": [
+        "Sticky Wilds",
+        "Free Spins",
+        "Shootout Bonus"
+      ],
+      "art_style": "Comic Book",
+      "provider_style": "Western",
+      "target_audience": "Western Fans",
+      "description": "Draw your six-shooter and head into the Wild West for a Showdown. Encounter bandits and lawmen as you spin for gold and glory.",
+      "tags": [
+        "Western",
+        "Cowboys",
+        "Gold"
+      ]
+    },
+    {
+      "id": "c9d0e1f2",
+      "name": "Tropical Tiki",
+      "theme": "Island Escape",
+      "volatility": "Low",
+      "rtp": 94.7,
+      "reels": 3,
+      "paylines": 9,
+      "max_win_x": 700,
+      "special_features": [
+        "Stacked Symbols",
+        "Re-Spins"
+      ],
+      "art_style": "Tropical",
+      "provider_style": "Relaxation",
+      "target_audience": "Vacation Dreamers",
+      "description": "Escape to a Tropical Tiki paradise where the sun is always shining and the reels are filled with rewarding surprises.",
+      "tags": [
+        "Tropical",
+        "Vacation",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "g3h4i5j6",
+      "name": "Viking Voyage",
+      "theme": "Norse Mythology",
+      "volatility": "High",
+      "rtp": 92.9,
+      "reels": 6,
+      "paylines": 117649,
+      "max_win_x": 10000,
+      "special_features": [
+        "Megaways",
+        "Cascading Wins",
+        "Viking Battle Bonus"
+      ],
+      "art_style": "Epic",
+      "provider_style": "Mythical",
+      "target_audience": "Mythology Lovers",
+      "description": "Embark on a Viking Voyage across stormy seas and icy landscapes. With Megaways and dynamic features, every spin is a legendary saga.",
+      "tags": [
+        "Vikings",
+        "Norse",
+        "Epic"
+      ]
+    },
+    {
+      "id": "k7l8m9n0",
+      "name": "Culinary Carnival",
+      "theme": "Food Festival",
+      "volatility": "Low",
+      "rtp": 96.6,
+      "reels": 5,
+      "paylines": 30,
+      "max_win_x": 1200,
+      "special_features": [
+        "Wild Gourmets",
+        "Cook-Off Bonus",
+        "Free Spins"
+      ],
+      "art_style": "Colorful",
+      "provider_style": "Gourmet",
+      "target_audience": "Food Enthusiasts",
+      "description": "Join the Culinary Carnival where delicious treats and culinary delights are always on the menu. Spin to win and savor the flavors of big prizes.",
+      "tags": [
+        "Food",
+        "Festival",
+        "Gourmet"
+      ]
+    }
+  ]
+}
