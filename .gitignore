@@ -12,6 +12,7 @@ __pycache__/
 venv/
 env/
 .venv/
+experiments/
 
 # Test / packaging artifacts
 .pytest_cache/
