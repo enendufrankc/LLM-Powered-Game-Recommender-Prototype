@@ -131,4 +131,5 @@ def main():
     print(f"Total games in file: {len(all_games)}")
     print(f"File saved to: {OUT_FILE}")
     
-main()
+if __name__ == "__main__":
+    main()
