@@ -114,18 +114,9 @@ What the UI does (implemented in `main.py`):
 
 - This is a focused POC. The project includes deterministic fallbacks for offline development so you can run the demo without an OpenAI key.
 - Embeddings are cached locally in `game/database/embeddings.json` and that file is ignored by git.
-- There are no automated tests included in this repository at the moment.
 
 ## Extending the project
 
 - Change dataset generation: modify `game/generate_data.py`.
 - Change embedding or similarity behavior: modify `game/similarity.py`.
 - Modify UI: edit `main.py`.
-
-## License & attribution
-
-Follow licensing and usage terms for any third-party services you use (e.g., OpenAI). The code in this repo is a proof-of-concept.
-
----
-
-If you'd like, I can also (a) add a short example `.env.example`, (b) add a small helper script to initialize the embedding cache, or (c) add a brief developer checklist for making changes to the similarity logic — tell me which you'd prefer.
