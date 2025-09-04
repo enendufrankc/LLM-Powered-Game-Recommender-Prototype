@@ -110,65 +110,85 @@ class SimilarityEngine:
 
     def _explain_similarity(self, source: Dict, candidate: Dict, score: Optional[float]) -> str:
         """
-        Produce a concise, human-readable explanation why candidate is similar to source.
-        Uses field comparisons: theme, tags, special_features, art_style, volatility, provider_style, name overlap.
+        Use the LLM to produce a short, conversational explanation why `candidate` is similar to `source`.
+        If the LLM call fails, fall back to a deterministic, compact explanation.
         """
+        # Prepare concise context for the LLM
+        def _flatten(g: Dict) -> Dict:
+            return {
+                "name": g.get("name", ""),
+                "theme": g.get("theme", ""),
+                "art_style": g.get("art_style", ""),
+                "volatility": g.get("volatility", ""),
+                "provider_style": g.get("provider_style", ""),
+                "special_features": ", ".join(g.get("special_features", []) or []),
+                "tags": ", ".join(g.get("tags", []) or []),
+                "description": g.get("description", "")[:600],  # keep prompt small
+            }
+
+        s = _flatten(source or {})
+        c = _flatten(candidate or {})
+
+        system = "You are a helpful assistant that writes short, clear, conversational reasons why one slot game is a good recommendation for another."
+        user = (
+            "Given the SOURCE and CANDIDATE games below, write 1 short conversational sentence (10-25 words) "
+            "explaining why the candidate is a good match for the source. Focus on theme, features, art style, volatility, and tags. "
+            "If nothing obvious, say 'Similar overall based on semantic similarity.' "
+            "Include the embedding similarity score in parentheses if provided. Output plain text only.\n\n"
+            f"SOURCE:\nName: {s['name']}\nTheme: {s['theme']}\nArt style: {s['art_style']}\nVolatility: {s['volatility']}\nProvider: {s['provider_style']}\nFeatures: {s['special_features']}\nTags: {s['tags']}\n\n"
+            f"CANDIDATE:\nName: {c['name']}\nTheme: {c['theme']}\nArt style: {c['art_style']}\nVolatility: {c['volatility']}\nProvider: {c['provider_style']}\nFeatures: {c['special_features']}\nTags: {c['tags']}\n\n"
+        )
+        if score is not None:
+            user += f"Embedding similarity: {score:.3f}\n"
+
+        try:
+            resp = self.openai.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[{"role": "system", "content": system}, {"role": "user", "content": user}],
+                temperature=0.2,
+                max_tokens=100,
+            )
+            try:
+                content = resp.choices[0].message.content
+            except Exception:
+                content = resp["choices"][0]["message"]["content"]
+            explanation = content.strip()
+            # Guard: keep it short and single-line
+            explanation = " ".join(explanation.splitlines()).strip()
+            if explanation:
+                return explanation
+        except Exception:
+            # fall through to deterministic fallback
+            pass
+
+        # Deterministic fallback (compact, clear)
         parts: List[str] = []
-        # theme
-        s_theme = (source.get("theme") or "").strip().lower()
-        c_theme = (candidate.get("theme") or "").strip().lower()
-        if s_theme and c_theme and s_theme == c_theme:
-            parts.append(f"shares the same theme ({source.get('theme')}).")
+        if s["theme"] and c["theme"] and s["theme"].strip().lower() == c["theme"].strip().lower():
+            parts.append(f"shares the same theme ({s['theme']})")
+        if s["art_style"] and c["art_style"] and s["art_style"].strip().lower() == c["art_style"].strip().lower():
+            parts.append(f"similar art style ({s['art_style']})")
+        if s["volatility"] and c["volatility"] and s["volatility"].strip().lower() == c["volatility"].strip().lower():
+            parts.append(f"matches volatility ({s['volatility']})")
+        # common tags/features (short)
+        s_tags = set(t.strip().lower() for t in (source.get("tags") or []) if t)
+        c_tags = set(t.strip().lower() for t in (candidate.get("tags") or []) if t)
+        common = sorted(list(s_tags & c_tags))
+        if common:
+            parts.append(f"shares tags: {', '.join(common[:3])}")
+        s_feats = set(f.strip().lower() for f in (source.get("special_features") or []) if f)
+        c_feats = set(f.strip().lower() for f in (candidate.get("special_features") or []) if f)
+        common_feats = sorted(list(s_feats & c_feats))
+        if common_feats:
+            parts.append(f"both have {', '.join(common_feats[:3])}")
 
-        # art style
-        s_art = (source.get("art_style") or "").strip().lower()
-        c_art = (candidate.get("art_style") or "").strip().lower()
-        if s_art and c_art and s_art == c_art:
-            parts.append(f"has a similar art style ({source.get('art_style')}).")
-
-        # volatility
-        s_vol = (source.get("volatility") or "").strip().lower()
-        c_vol = (candidate.get("volatility") or "").strip().lower()
-        if s_vol and c_vol and s_vol == c_vol:
-            parts.append(f"matches volatility ({source.get('volatility')}).")
-
-        # provider style
-        s_prov = (source.get("provider_style") or "").strip().lower()
-        c_prov = (candidate.get("provider_style") or "").strip().lower()
-        if s_prov and c_prov and s_prov == c_prov:
-            parts.append(f"follows a similar provider style ({source.get('provider_style')}).")
-
-        # tags overlap
-        s_tags = set([t.strip().lower() for t in (source.get("tags") or []) if t])
-        c_tags = set([t.strip().lower() for t in (candidate.get("tags") or []) if t])
-        tags_common = sorted(list(s_tags & c_tags))
-        if tags_common:
-            parts.append(f"shares tags: {', '.join(tags_common)}.")
-
-        # special features overlap
-        s_feats = set([f.strip().lower() for f in (source.get("special_features") or []) if f])
-        c_feats = set([f.strip().lower() for f in (candidate.get("special_features") or []) if f])
-        feats_common = sorted(list(s_feats & c_feats))
-        if feats_common:
-            parts.append(f"both include features like {', '.join(feats_common)}.")
-
-        # name overlap (simple word intersection)
-        s_name_words = set(w.lower() for w in (source.get("name") or "").split() if len(w) > 2)
-        c_name_words = set(w.lower() for w in (candidate.get("name") or "").split() if len(w) > 2)
-        name_common = sorted(list(s_name_words & c_name_words))
-        if name_common:
-            parts.append(f"name similarity ({', '.join(name_common)}).")
-
-        # build explanation
-        if not parts:
-            explanation = "Similar based on overall semantic embedding similarity."
+        if parts:
+            base = "; ".join(parts) + "."
         else:
-            explanation = " ".join(parts)
+            base = "Similar overall based on semantic embedding similarity."
 
         if score is not None:
-            explanation = f"{explanation} (Embedding similarity: {score:.3f})"
-
-        return explanation
+            return f"{base} (Embedding similarity: {score:.3f})"
+        return base
 
     def recommend(self, source_id: str, top_k: int = 5, rerank_with_llm: bool = False, rerank_model: str = "gpt-4o-mini") -> List[Dict]:
         """
